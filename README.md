@@ -20,6 +20,11 @@ It is also recommended to set the maximum recipients to 1 in /etc/postfix/main.c
 
      spamassassin_destination_recipient_limit=1
 
+Acknowledgements
+----------------
+
+This is based on the code and concepts documented on the SpamAssassin wiki in the section on [Using SQL](http://wiki.apache.org/spamassassin/UsingSQL)
+
 License
 -------
 
